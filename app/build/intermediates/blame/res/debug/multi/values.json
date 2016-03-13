@@ -1,0 +1,122 @@
+[
+    {
+        "outputFile": "D:\\Android Projects-PDS\\ParseLoginTutorial1\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 42,
+                    "endOffset": 93
+                },
+                "from": {
+                    "file": "D:\\Android Projects-PDS\\ParseLoginTutorial1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 98,
+                    "endColumn": 45,
+                    "endOffset": 139
+                },
+                "from": {
+                    "file": "D:\\Android Projects-PDS\\ParseLoginTutorial1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 144,
+                    "endColumn": 45,
+                    "endOffset": 185
+                },
+                "from": {
+                    "file": "D:\\Android Projects-PDS\\ParseLoginTutorial1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 190,
+                    "endColumn": 45,
+                    "endOffset": 231
+                },
+                "from": {
+                    "file": "D:\\Android Projects-PDS\\ParseLoginTutorial1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 236,
+                    "endColumn": 45,
+                    "endOffset": 277
+                },
+                "from": {
+                    "file": "D:\\Android Projects-PDS\\ParseLoginTutorial1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 282,
+                    "endColumn": 44,
+                    "endOffset": 322
+                },
+                "from": {
+                    "file": "D:\\Android Projects-PDS\\ParseLoginTutorial1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 327,
+                    "endColumn": 40,
+                    "endOffset": 363
+                },
+                "from": {
+                    "file": "D:\\Android Projects-PDS\\ParseLoginTutorial1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 132,
+                        "endColumn": 40,
+                        "endOffset": 168
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 368,
+                    "endColumn": 75,
+                    "endOffset": 439
+                },
+                "from": {
+                    "file": "D:\\Android Projects-PDS\\ParseLoginTutorial1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 444,
+                    "endColumn": 44,
+                    "endOffset": 484
+                },
+                "from": {
+                    "file": "D:\\Android Projects-PDS\\ParseLoginTutorial1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            }
+        ]
+    }
+]
